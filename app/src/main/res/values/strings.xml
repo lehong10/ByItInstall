@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">invisionapp</string>
+    <string name="txt_startapp">We don\'t work with \"leads\"-only confirmed job</string>
+    <string name="txt_create_new_account">CREATE A NEW ACCOUNT</string>
+    <string name="txt_sign_in">SIGN IN</string>
+    <string name="txt_sign_in1">Bll Tagline</string>
+    <string name="txt_sign_layout">Email or Username</string>
+    <string name="txt_sign_username_layout">Email or Username</string>
+    <string name="txt_sign_pass_layout">Password</string>
+    <string name="txt_sign_reset_layout">Reset username or password</string>
+</resources>
